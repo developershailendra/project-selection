@@ -94,6 +94,10 @@ select {
     display: grid;
 }
 
+input{
+    accent-color: var(--pink);
+}
+
 .btn {
     font-size: 16px;
     border: 2px solid var(--gray);
